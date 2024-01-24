@@ -1,0 +1,4 @@
+﻿  rain test.cpp
+C:\Users\User\source\repos\rain test\rain test.cpp(80,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\rain test\rain test.cpp(81,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  rain test.vcxproj -> C:\Users\User\source\repos\rain test\x64\Debug\rain test.exe
