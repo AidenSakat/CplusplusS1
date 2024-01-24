@@ -1,0 +1,6 @@
+﻿  Area of a Rectangle.cpp
+C:\Users\User\source\repos\Area of a Rectangle\Area of a Rectangle.cpp(28,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Area of a Rectangle\Area of a Rectangle.cpp(29,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Area of a Rectangle\Area of a Rectangle.cpp(30,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Area of a Rectangle\Area of a Rectangle.cpp(65,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Area of a Rectangle.vcxproj -> C:\Users\User\source\repos\Area of a Rectangle\x64\Debug\Area of a Rectangle.exe
