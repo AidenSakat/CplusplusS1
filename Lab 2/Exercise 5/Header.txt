@@ -1,0 +1,15 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Stock Commission	Stock Commission.cpp
+
+Description: Lab #2, Exercise #5, Brief description of exercise:You just bought 750 shares of stock at a price of $35 per share. You need to pay your stockbroker a 2% commission for the
+transaction. Write a program that calculates and displays the following: 
+Amount paid for the stock without commission. 
+The commission amount. 
+Total (stock purchase + commission)
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

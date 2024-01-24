@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Product of two numbers	Product of two numbers.cpp
+
+Description: Lab #2, Exercise #2, Brief description of exercise: Write a program that stores the integers of 50 and 100 in variables, 
+stores the product of these two in variable named total, and displays the total.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

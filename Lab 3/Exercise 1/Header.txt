@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Stadium Seating	Stadium Seating.cpp
+
+Description: Lab #3, Exercise #1, Brief description of exercise: Write a program that asks how many tickets for each class of seats were sold, then displays the amount of 
+income generated from ticket sales.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

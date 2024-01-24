@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Calorie Counter	Calorie Counter.cpp
+
+Description: Lab #3, Exercise #2, Brief description of exercise: Write a program that asks the user to input how many cookies he or she ate, then reports how 
+many total calories were consumed. 
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

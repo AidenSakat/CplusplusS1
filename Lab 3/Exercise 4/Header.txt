@@ -1,0 +1,11 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Currency Conversion	Currency Conversion.cpp
+
+Description: Lab #3, Exercise #4, Brief description of exercise: Write a program that will convert U.S. dollar amounts to Japanese yen and to euros.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

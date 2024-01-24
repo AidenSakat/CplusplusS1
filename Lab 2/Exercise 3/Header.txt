@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Miles per gallon	Miles per gallon.cpp
+
+Description: Lab #2, Exercise #3, Brief description of exercise: Write a program that computes the miles per gallon of a car that holds 15 gallons of gas and 
+can travel 400 miles before refueling.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

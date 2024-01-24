@@ -1,0 +1,11 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name:Body Mass Index	Body Mass Index.cpp
+
+Description: Lab #4, Exercise #2, Brief description of exercise: Write a program that calculates and displays a person’s body mass index (BMI).
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

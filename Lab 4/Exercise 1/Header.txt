@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Roman Numeral Converter	Roman Numeral Converter.cpp
+
+Description: Lab #4, Exercise #1, Brief description of exercise:Write a program that prompts the user to enter a number between 
+1 and 10 and display the equivalent Roman numeral. 
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

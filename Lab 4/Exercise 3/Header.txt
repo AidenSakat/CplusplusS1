@@ -1,0 +1,11 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name:Software Sales	Software Sales.cpp
+
+Description: Lab #4, Exercise #3, Brief description of exercise: Write a program that asks for the number of units sold and computes the total cost of the purchase. 
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

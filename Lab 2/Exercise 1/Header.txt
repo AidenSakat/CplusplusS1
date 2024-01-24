@@ -1,0 +1,11 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Fix The Code 	Fix The Code.cpp
+
+Description: Lab #2, Exercise #1, Brief description of exercise: Rewrite the code so the program compiles, runs and produces the correct output.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

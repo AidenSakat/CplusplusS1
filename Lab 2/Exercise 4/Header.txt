@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name: Annual Pay	Annual Pay.cpp
+
+Description: Lab #2, Exercise #4, Brief description of exercise: An employee gets paid every two weeks  and earns $2200 each pay period. in a year, 
+the employee gets paid 26 times. Write a program that defines the following variables: payamount, payperiod, annualpay.
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/

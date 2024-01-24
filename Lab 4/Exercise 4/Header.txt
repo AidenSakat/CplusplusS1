@@ -1,0 +1,12 @@
+/*************************************************************************
+Cuyamaca College CS-181
+
+File name:Shipping Charges	Shipping Charges.cpp
+
+Description: Lab #4, Exercise #4, Brief description of exercise:Write a program that asks for the weight of the package 
+and the distance it is to be shipped, then displays the charges. 
+
+Developer: Aiden Sakat
+
+
+*************************************************************************/
